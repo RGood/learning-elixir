@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <script type="application/javascript" defer="defer" src="js/application.js"></script>
+    <title>
+      My Rock Hard Chat 
+    </title>
+  </head>
+  <body>
+    <main id="main"></main>
+    <br>
+      <h3>USERNAME:</h3>
+      <input type="text" value="user"/>
+      <h3>PASSWORD:</h3>
+      <input type="password" value="pass"/>
+      <input type="submit"/>
+  </body>
+</html>
