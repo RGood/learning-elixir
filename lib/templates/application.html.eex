@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <script type="application/javascript" defer="defer" src="js/application.js"></script>
+    <title>
+      My Rock Hard Chat 
+    </title>
+  </head>
+  <body>
+  <!-- whats this all about? --> 
+    <main id="main"></main>
+    <br>
+    <h1>Hi! Welcome to our enormous website.</h1>
+    <p>Let us rest by the fire and tell all the good stories.</p>
+    LOGIN: <input type="submit"/>
+  </body>
+</html>

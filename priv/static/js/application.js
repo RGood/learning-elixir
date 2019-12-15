@@ -9,6 +9,7 @@
           const pTag = document.createElement("p")
           pTag.innerHTML = event.data
   
+          // ahhhhhhhhhhh yes
           document.getElementById("main").append(pTag)
         })
   
